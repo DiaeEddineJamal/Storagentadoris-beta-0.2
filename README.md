@@ -28,7 +28,9 @@ Once logged in, the user can access the following functionalities:<br>
 // Empty the whole storage<br>
 
 # Preview:<br>
-![preview](https://github.com/DiaeEddineJamal/Storagentadoris-beta-0.2/assets/86086748/c16694a2-e8cd-4839-84db-cae217c8fb44) <br>
+![preview](https://github.com/DiaeEddineJamal/Storagentadoris-beta-0.2/assets/86086748/56143d09-d8ed-4242-99a8-3545e162ff33)
+
+ <br>
 
 **#Contributors**<br>
 This application is brought to you by:<br>

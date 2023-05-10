@@ -27,6 +27,9 @@ Once logged in, the user can access the following functionalities:<br>
 // Display products images based on the name<br>
 // Empty the whole storage<br>
 
+# Preview:<br>
+![preview](https://github.com/DiaeEddineJamal/Storagentadoris-beta-0.2/assets/86086748/c16694a2-e8cd-4839-84db-cae217c8fb44) <br>
+
 **#Contributors**<br>
 This application is brought to you by:<br>
 *************************************************************<br>

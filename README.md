@@ -21,7 +21,7 @@ This storage management application is built using Python and PyQt5. The applica
 Once logged in, the user can access the following functionalities:<br>
 
 // Add item to storage:  users can add new items to the storage by entering the item name, description, and quantity.<br>
-// Delete item from storage:  users can delete items from the storage by selecting the item from a list of all items in the storage.<br>
+// Delete item from storage:  users can delete items from the storage by typing in the name of that item.<br>
 // Search for item in storage: users can search for items in the storage by entering a search query. The application will display all items that match the query.<br>
 // Display all items in storage: users can view a list of all items in the storage.<br>
 // Display products images based on the name<br>
